@@ -1,0 +1,13 @@
+.prevMonster {
+    width: 3rem;
+}
+.gameMap {
+    width:600px;
+    height:600px;
+    position: relative;
+}
+.monsterBtn {
+    width: 4rem;
+    background-color: transparent;
+    border: none;
+}
